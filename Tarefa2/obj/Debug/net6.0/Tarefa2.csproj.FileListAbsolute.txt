@@ -1,0 +1,15 @@
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\bin\Debug\net6.0\Tarefa2.exe
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\bin\Debug\net6.0\Tarefa2.deps.json
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\bin\Debug\net6.0\Tarefa2.runtimeconfig.json
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\bin\Debug\net6.0\Tarefa2.dll
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\bin\Debug\net6.0\Tarefa2.pdb
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.AssemblyInfo.cs
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.dll
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\refint\Tarefa2.dll
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.pdb
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\Tarefa2.genruntimeconfig.cache
+C:\Users\romul\Desktop\talento\paradigma\Tarefa2\obj\Debug\net6.0\ref\Tarefa2.dll
